@@ -1,3 +1,4 @@
+<script type="application/ld+json">
 {
     "@context": "https://schema.org/",
     "@type": "Product",
@@ -16,7 +17,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.7",
             "bestRating": "20"
         },
         "author": {
@@ -42,7 +43,9 @@
             "name": "MAX Deportes"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Iphone Xr 64Gb Color Negro R9 (Telcel)",
@@ -61,7 +64,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -87,7 +90,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Purina Excellent para perro adulto 20 kg ",
@@ -105,7 +110,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -131,7 +136,9 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Pantalla Samsung 49&quot; Led Uhd 4K Curva",
@@ -156,7 +163,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -182,7 +189,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Arbol De Navidad 1. 90m Nevado Pino Artificial Naviplastic Navide\u00f1o",
@@ -200,7 +209,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -226,7 +235,9 @@
             "name": "MERCADAZO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Paquete 2X1 Nautica Voyage 100 Ml Edt de Nautica Fragancia para Caballero",
@@ -245,7 +256,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.5",
             "bestRating": "20"
         },
         "author": {
@@ -271,7 +282,9 @@
             "name": "The Fragrance"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nupec para Perro Adulto 20 kg",
@@ -289,7 +302,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -315,7 +328,9 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Refrigerador Daewoo Top Mount 9 Pies C&uacute;bicos Blanco",
@@ -364,7 +379,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nintendo Switch con Mario Kart 8",
@@ -408,7 +425,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Royal Canin - Alimento para Gato Urinary SO 8 kg ",
@@ -426,7 +445,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -452,7 +471,9 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "iPhone XR 64GB Color Negro R9 &#40;Telcel&#41;",
@@ -470,7 +491,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -496,7 +517,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Huawei Mate 20 Lite Color Negro R9 (Telcel)",
@@ -521,7 +544,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -547,7 +570,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Tenis Negro con Detalle de Marca G By Guess",
@@ -557,14 +582,14 @@
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2655536.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2655535.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2655534.jpg",
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2981797.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2983082.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2983081.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2983080.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2981800.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2981799.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2981798.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2983083.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2981797.jpg"
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2983083.jpg"
     ],
     "description": "  Complementa tu outfit con el estilo \u00fanico de tus Tenis Negros G by Guess.       Los tenis G by Guess cuentan con un estilo relajado, que se adaptar\u00e1 a cada paso que des.       Los Tenis G by Guess tienen un corte y forro textil.       No pierdas el estilo con los Tenis Negros G by Guess.                             Estilo         Tenis               Tipo de Tac\u00f3n         Flat               Altura de Tac\u00f3n         1 cm               Corte         Textil               Forro         Textil          ",
     "sku": "663401",
@@ -577,7 +602,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.5",
             "bestRating": "20"
         },
         "author": {
@@ -603,7 +628,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Celular APPLE IPHONE XS MAX Color DORADO 64GB Telcel",
@@ -622,7 +649,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.0",
+            "ratingValue": "3.5",
             "bestRating": "20"
         },
         "author": {
@@ -648,7 +675,9 @@
             "name": "Telcel Amigokit"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nupec Cachorro 20 kg",
@@ -666,7 +695,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -692,7 +721,9 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Xbox One S de 1 TB con 2 Controles",
@@ -710,7 +741,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -736,7 +767,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Adult Feline 10 kg royal canin",
@@ -754,7 +787,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -780,7 +813,9 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Consola Nintendo Switch 32GB-Edici\u00f3n Estandar Color Gris",
@@ -802,7 +837,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -828,7 +863,9 @@
             "name": "FABRICA DIRECTO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Estufa Verona Koblenz",
@@ -847,7 +884,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -873,7 +910,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Colchon Restonic MILAN Matrimonial ",
@@ -892,7 +931,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -918,7 +957,9 @@
             "name": "Endomex"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Montable Fisher Price Power Wheels Jurassic World Dino Racer Mattel",
@@ -937,7 +978,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -963,7 +1004,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "FlavorStone Master Set Copper",
@@ -989,7 +1032,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -1015,7 +1058,9 @@
             "name": "Mejor CompraTV"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nupec para Adulto Razas Peque\u00f1as 8kg  ",
@@ -1059,14 +1104,16 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Ipad 6 32Gb Silver Wifi",
     "image": [
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2780996.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2780996.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2780997.jpg"
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2780997.jpg",
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2780996.jpg"
     ],
     "description": "  Es como una computadora, pero como ninguna otra computadora. Haz todo lo que te imaginas y mucho m\u00e1s con el iPad 6, m\u00e1s potencia y rendimiento, disfruta de todas las funciones que te ofrece. Chip A10. Compatible con Apple Pencil. Tecnolog\u00eda Multi - Tasking. Pantalla Retina Multi-touch LED. Touch ID. Realidad aumentada.                      Modelo         MR7G2CL/A               *Pantalla (pulgadas)         9.7               Resoluci\u00f3n de pantalla         2048 x1536               *Conectividad         WiFi               *Memoria interna         32GB               C\u00e1mara         8 MP con Video HD de 1080 p               Sistema operativo         iOS 11               Procesador         Chip A10 Fusion.               Terminales de salida         Conector Lightning. Entrada de 3.5 mm para aud\u00edfonos. Sensor Touch ID               Duraci\u00f3n de bater\u00eda         Hasta 10 horas               Color         Silver               Alto (cm)         23.73               Frente (cm)         16.9               Fondo (cm)         0.56               Peso (kg)         0.378          ",
     "sku": "768109",
@@ -1079,7 +1126,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -1105,7 +1152,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Colch\u00f3n Restonic West Matrimonial",
@@ -1126,7 +1175,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -1143,7 +1192,7 @@
         "@type": "Offer",
         "url": "https://www.claroshop.com/producto/973189/google-home-mini-ga00216-us/",
         "priceCurrency": "MXN",
-        "price": "7475",
+        "price": "7975",
         "priceValidUntil": "2019-11-18",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock",
@@ -1152,7 +1201,9 @@
             "name": "Colchones Dormil\u00f3n"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Purina Pro Plan Optiage - Adulto Senior Active Mind 13 kg ",
@@ -1170,7 +1221,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -1196,7 +1247,9 @@
             "name": "Marlovet"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Laptop 14\" Direkt-Tek CPU Intel Quad Core Ram 4GB Ultra Slim  ",
@@ -1217,7 +1270,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -1243,7 +1296,9 @@
             "name": "FABRICA DIRECTO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nintendo Switch Neon",
@@ -1289,7 +1344,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Bicicleta Spinning 18 Kg Profesional Fija Gym",
@@ -1310,7 +1367,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -1336,7 +1393,9 @@
             "name": "MERCADAZO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "4711 Eau Cologne Caballero 800 Ml Maurer And Wirtz",
@@ -1354,7 +1413,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -1380,7 +1439,9 @@
             "name": "PriceOnLine"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Impresora De fotograf?as Canon Selphy Cp1300 Negro Wifi Compatible Con Smartphones Y C?maras Canon",
@@ -1401,7 +1462,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -1427,4 +1488,4 @@
             "name": "Go Multimedia"
         }
     }
-}
+}</script>

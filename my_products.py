@@ -36,7 +36,7 @@ def main():
 	# Open the json file
 	with open("my_json.json") as f:
 	    data = json.load(f)
-	
+
 	count = 0
 	json_list = []
 	for prod in products:
@@ -58,14 +58,15 @@ def main():
 			data["image"].append(dataCS["data"]["images"][position]["link"])
 	
 		count += 1
-		json_list.append(json.dumps(data))
+		data_format = "<script type=\"application/ld+json\">\n" + json.dumps(data) + "</script>\n"
+		json_list.append(data_format)
 
 	# Files names:
 	# json_buen_fin
 	# json_productos_del_dia
 	# json_corner_buen_fin
 	# json_black_friday
-	writeJsonListIntoJsonFile("json_black_friday.json", json_list)
+	writeJsonListIntoJsonFile("json_corner_buen_fin.json", json_list)
 
 if __name__ == "__main__":
 	main()

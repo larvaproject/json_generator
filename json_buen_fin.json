@@ -1,3 +1,4 @@
+<script type="application/ld+json">
 {
     "@context": "https://schema.org/",
     "@type": "Product",
@@ -19,7 +20,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -45,7 +46,9 @@
             "name": "Endomex"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Samsung Galaxy Note 9, 128 GB, Liberado de Fabrica Remanufacturado",
@@ -65,7 +68,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -91,7 +94,9 @@
             "name": "IDESAIN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Tenis Adidas Advantage Base Dama Original EE7502",
@@ -112,7 +117,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.4",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -138,7 +143,9 @@
             "name": "MUSHITO SPORT"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Consola Xbox One S 1TB Gears 5",
@@ -158,7 +165,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -184,7 +191,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Oferta Limitada Colch\u00f3n Restonic Flip resorte Bonell 5V Individual",
@@ -205,7 +214,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -231,7 +240,9 @@
             "name": "Endomex"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Aparato Ejercicio Abdominales Ab Tomic Fortalece Abdomen Wonder Gym Ejercitador Fitness",
@@ -255,7 +266,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -281,7 +292,9 @@
             "name": "MERCADAZO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Oferta! Iphone 6S Plus 64gb Liberado de F\u00e1brica Remanufacturado",
@@ -301,7 +314,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.7",
             "bestRating": "20"
         },
         "author": {
@@ -327,7 +340,9 @@
             "name": "IDESAIN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Arbol De Navidad Monarca De Lujo Blanco 190cm Alt Naviplastic",
@@ -371,7 +386,9 @@
             "name": "MERCADAZO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "SAMSUNG GALAXY A50 64GB NEGRO",
@@ -415,16 +432,18 @@
             "name": "Celulandia"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Jet Stark y el Ataque Del Dron Lego",
     "image": [
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2929933.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2929933.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2946251.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2946250.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2929934.jpg"
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2929934.jpg",
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2929933.jpg",
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2946251.jpg"
     ],
     "description": "\u00a1Defiende Venecia contra el ataque de los drones con Happy Hogan, Nick Fury, Mysterio, Spider-Man y el fant\u00e1stico Jet Stark! Ajusta las alas y prep\u00e1rate para despegar. Controla la avanzada aeronave con turbinas desde la doble cabina con Happy Hogan y Nick Fury. Esquiva a los 2 drones, equipados con ca\u00f1ones que disparan, y contraataca disparando con los ca\u00f1ones del propio jet. \u00a1Luego, abre la escotilla para arrojar bombas de energ\u00eda o entra en acci\u00f3n lanz\u00e1ndote con Spider-Man y sus telara\u00f1as!",
     "sku": "1049704",
@@ -437,7 +456,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -463,7 +482,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Reloj Caballero Bulova 98B278",
@@ -484,7 +505,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -510,7 +531,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Audifonos Bluetooth tipo Airpods i11 TWS TOUCH",
@@ -537,7 +560,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -563,7 +586,9 @@
             "name": "Sofistik2"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Multifuncional Canon MAXIFY MB2110, Color, Inyecci\u00f3n, Inal\u00e1mbrico, Imprime/Escanea/Copia/Fax ",
@@ -581,7 +606,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -607,7 +632,9 @@
             "name": "COIMPRIT"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Pantalla 50 Pulg 4K 3840x2160 60Hz Roku Integrado Element Reacondicionado",
@@ -625,7 +652,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -651,7 +678,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Laptop Chromebook 11.6\" Intel Celeron N3050 2GB 16GB Lenovo Reacondicionado",
@@ -669,7 +698,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -695,7 +724,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Oferta Samsung Galaxy S8 64gb Liberado y Remanufacturado de F\u00e1brica ",
@@ -715,7 +746,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.7",
             "bestRating": "20"
         },
         "author": {
@@ -741,7 +772,9 @@
             "name": "IDESAIN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Oferta! IPHONE X 256gb Remanufacturado Liberado de F\u00e1brica  ",
@@ -785,7 +818,9 @@
             "name": "IDESAIN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Samsung Galaxy Note 8 64gb Liberado de F\u00e1brica Remanufacturado",
@@ -830,7 +865,9 @@
             "name": "IDESAIN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Celular Samsung Galaxy M30 64GB RAM 4GB 3 Camaras Gran Bateria NEGRO ",
@@ -850,7 +887,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4.0",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -876,7 +913,9 @@
             "name": "Laptop Mexico"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "SAMSUNG GALAXY A70 128GB NEGRO",
@@ -896,7 +935,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -922,7 +961,9 @@
             "name": "Celulandia"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Oferta iPhone 8 Plus 64gb Liberado de F\u00e1brica Remanufacturado",
@@ -931,7 +972,8 @@
         "https://resources.claroshop.com/medios-plazavip/mkt/5d5b2b77642b8_ip8plus1jpg.jpg",
         "https://resources.claroshop.com/medios-plazavip/mkt/5d5b2b789dc94_ip8plus2jpg.jpg",
         "https://resources.claroshop.com/medios-plazavip/mkt/5d5b2d014ae66_2portada-iphone-8-plus-64gb-silverjpg.jpg",
-        "https://resources.claroshop.com/medios-plazavip/mkt/5d5b2d7cbd0cc_portada-iphone-8-plus-64gb-spacejpg.jpg"
+        "https://resources.claroshop.com/medios-plazavip/mkt/5d5b2d7cbd0cc_portada-iphone-8-plus-64gb-spacejpg.jpg",
+        "https://resources.claroshop.com/medios-plazavip/mkt/5ddb0a71cb67a_2portada-iphone-8-plus-64gb-rose-goldjpg.jpg"
     ],
     "description": "Smartphone Apple iPhone 8 plus original\r\n\r\n                                                                                                   \r\n64GB de Capacidad\r\nPantalla de 5.5\" a resoluci\u00f3n Full HD\r\nprocesador A11 Bionic, c\u00e1mara dual de 12 MP, con zoom \u00f3ptico 2X, y aperturas combinables para efectos de fotograf\u00eda y slow motion en 1080p\r\n\r\n\u2022 Desbloqueado para cualquier compa\u00f1\u00eda\r\n\u2022 Funciona todo al 100%\r\n\u2022 Producto ramanufacturado (por manejo de importaci\u00f3n, puede presentar detalles est\u00e9ticos m\u00ednimos que NO afectan su funcionamiento)\r\n-Incluye:\r\n\u2022 Cargador de pared \r\n\u2022 Cable USB \r\n\u2022 Empacado en caja Gen\u00e9rica (Posterior a una revisi\u00f3n de calidad y funcionamiento)\r\n\r\n+++ 90 d\u00edas de GARANT\u00cdA en defectos de Fabricaci\u00f3n Directamente con Nuestra Empresa +++",
     "sku": "929331",
@@ -944,7 +986,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -970,7 +1012,9 @@
             "name": "IDESAIN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "COLCH\u00d3N PRO SIESTA MATRIMONIAL ",
@@ -991,7 +1035,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -1017,7 +1061,9 @@
             "name": "Endomex"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Mega Pack PlayStation 4 1 TB",
@@ -1036,7 +1082,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -1062,7 +1108,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Smart TV 32 Pulg 720P 60Hz Led HD HDMI SC32HK860N Seiki",
@@ -1082,7 +1130,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -1108,7 +1156,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Google Home Mini Bocina Inteligente Negra",
@@ -1127,7 +1177,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -1153,12 +1203,14 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "LLANTA 205/60R15 91H ATREZZO SH402 Sailun",
     "image": [
-        "https://resources.claroshop.com/medios-plazavip/s2/10483/787991/5dcf1bcade6ca-llantas-sailun-atrezzo-sh402-item432-1600x1600.jpg"
+        "https://resources.claroshop.com/medios-plazavip/s2/10483/787991/5dd72c9475ea6-llantas-sailun-atrezzo-sh402-item432-1600x1600.jpg"
     ],
     "description": "Una llanta de rendimiento para todas las estaciones, el SH402 ofrece una excepcional vida a la banda de rodamiento sin comprometer la comodidad y la calidad.\nEl compuesto All Season fue dise\u00f1ado para un excelente manejo en cualquier condici\u00f3n clim\u00e1tica.\nLa formulaci\u00f3n de alta abrasi\u00f3n mejora la resistencia al desgaste para aumentar vida de la banda de rodadura.\nEl compuesto Triplex Tread ofrece alta tracci\u00f3n y desgaste de larga duraci\u00f3n de la banda de rodadura.\nBloques de piso de \u00e1ngulo alto dise\u00f1ados para extender el contacto del piso y promover bordes penetrantes agresivos para un agarre m\u00e1ximo.\nRib central ondulado para reducir el ruido de la carretera a velocidades m\u00e1s altas y mejora la estabilidad direccional.\nSipes multi angulares de profundidad completa dise\u00f1ados para la tracci\u00f3n en todo tipo de condiciones clim\u00e1ticas al tiempo que reduce la resistencia a la rodadura y el desgaste irregular para promover una vida \u00fatil m\u00e1s larga de la banda de rodadura.",
     "sku": "963459",
@@ -1171,7 +1223,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.7",
             "bestRating": "20"
         },
         "author": {
@@ -1197,7 +1249,9 @@
             "name": "Llantas.com"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Patin Electrico Xiaomi Mi Electric Scooter Global Negro.",
@@ -1219,7 +1273,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -1245,14 +1299,16 @@
             "name": "Xiaomi M\u00e9xico Oficial"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Google Home Mini Bocina Inteligente Gris",
     "image": [
         "https://resources.claroshop.com/imagenes-sanborns-ii/1200/842776105493.jpg"
     ],
-    "description": "El asistente personal Google Home Mini Gris, es un dispositivo inteligente que con solo escuchar tu voz se pondr\u00e1 a trabajar. Para lograr su funcionamiento solo debes iniciar con la frase \u201cOk Google\u201d y esto bastar\u00e1 para que reconozca tu voz y empiece a interactuar contigo de forma personalizada.  Con Google Home Mini, podr\u00e1s reproducir tu m\u00fasica favorita, ver las pel\u00edculas y series que desees, tambi\u00e9n puedes agendar tus pendientes, encontrar lugares, llamar a tus contactos y muchas otras cosas m\u00e1s.      \u00bfQu\u00e9 esperas? Adquiere ahora mismo tu bocina inteligente Google Home Mini, o sigue navegando en el cat\u00e1logo de Sanbonrs para encontrar los mejores productos y ofertas, ya sean para ti o para regalar en este Buen Fin.",
+    "description": "El asistente personal Google Home Mini Gris, es un dispositivo inteligente que con solo escuchar tu voz se pondr\u00e1 a trabajar. Para lograr su funcionamiento solo debes iniciar con la frase \u201cOk Google\u201d y esto bastar\u00e1 para que reconozca tu voz y empiece a interactuar contigo de forma personalizada.  Con Google Home Mini, podr\u00e1s reproducir tu m\u00fasica favorita, ver las pel\u00edculas y series que desees, tambi\u00e9n puedes agendar tus pendientes, encontrar lugares, llamar a tus contactos y muchas otras cosas m\u00e1s.      \u00bfQu\u00e9 esperas? Adquiere ahora mismo tu bocina inteligente Google Home Mini, o sigue navegando en el cat\u00e1logo de Sanborns para encontrar los mejores productos y ofertas, ya sean para ti o para regalar en este Buen Fin.",
     "sku": "787442",
     "mpn": "787442",
     "brand": {
@@ -1263,7 +1319,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4.0",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -1289,7 +1345,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Caminadora Electrica Motor 1 HP Altera CE-510",
@@ -1336,7 +1394,9 @@
             "name": "Ordena.com"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Celular Samsung J410G Galaxy J4 Core Color Azul R9 &#40;Telcel&#41;",
@@ -1356,7 +1416,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4.0",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -1382,7 +1442,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Sofa cama Loveseat Nigeria suede Chocolate Maderian",
@@ -1404,7 +1466,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -1430,7 +1492,9 @@
             "name": "MADERIAN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Lavadora 19 Kg Automatica C/Blanca C Silver Marca Daewoo",
@@ -1448,7 +1512,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -1474,7 +1538,9 @@
             "name": "Bonalto"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Google Home Mini GA00216-US",
@@ -1493,7 +1559,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4.0",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -1519,7 +1585,9 @@
             "name": "Cybertek"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Sill\u00f3n Puff Matrimonial con cama en su interior, coj\u00edn y taburete de Gamuza",
@@ -1537,7 +1605,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -1563,7 +1631,9 @@
             "name": "PUFF.MX"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Estufa de piso 30\" IEM encendido electronico, negra, EI3030BAPN0",
@@ -1581,7 +1651,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -1607,7 +1677,9 @@
             "name": "Endomex"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Sofa cama Alex Lino Grey Maderian",
@@ -1633,7 +1705,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -1659,7 +1731,9 @@
             "name": "MADERIAN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Recamara Zafra King Size 5 Piezas - Chocolate - K\u00ebssa",
@@ -1704,7 +1778,9 @@
             "name": "Kessa"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Disco Duro Externo 1TB ADATA HV620S USB 3.1 Slim AHV620S-1TU31-CBK",
@@ -1727,7 +1803,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -1753,7 +1829,9 @@
             "name": "GRUPO DECME"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "NutriBullet Prime 1000w Pulverizador de alimentos y extractor - SKU 102329",
@@ -1774,7 +1852,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -1800,7 +1878,9 @@
             "name": "Enunclick"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Celular Samsung J410G Galaxy J4 Core Color Negro R9 &#40;Telcel&#41;",
@@ -1820,7 +1900,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -1846,7 +1926,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Sala Holanda suede estampado Paris y vinipiel rojo Maderian",
@@ -1868,7 +1950,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -1894,7 +1976,9 @@
             "name": "MADERIAN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Consola Xbox One S Blanco All Digital 2",
@@ -1915,7 +1999,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -1941,7 +2025,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Sofa cama Alex Curri Gris Ash Maderian",
@@ -1965,7 +2051,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.7",
             "bestRating": "20"
         },
         "author": {
@@ -1991,7 +2077,9 @@
             "name": "MADERIAN"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Kit C&aacute;mara Canon T7 Ef-S 18-55Mm Is 55-250Mm+ Maleta+ Sd 16Gb",
@@ -2010,7 +2098,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -2036,7 +2124,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Xbox One S de 1 TB con 2 Controles",
@@ -2054,7 +2144,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.8",
             "bestRating": "20"
         },
         "author": {
@@ -2080,7 +2170,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Xiaomi Mi Box S 4K Ultra HD Negro",
@@ -2102,7 +2194,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.4",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -2128,7 +2220,9 @@
             "name": "H-Movil"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "CK BE  100 ML EDT SPRAY Fragancia para Caballero",
@@ -2147,7 +2241,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -2173,7 +2267,9 @@
             "name": "The Fragrance"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Consola PlayStation 4 PS4 Slim 1TB Control DualShock 4",
@@ -2196,7 +2292,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.1",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -2222,7 +2318,9 @@
             "name": "GRUPO DECME"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Refrigerador French Door 22 P Silver Rf220Nctasl/em Samsung",
@@ -2241,7 +2339,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.0",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -2267,7 +2365,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Xiaomi Mi Smart Band 4 ",
@@ -2285,7 +2385,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -2311,7 +2411,9 @@
             "name": "IUSA"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nueva Barra De Sonido Bluetooth Teatro En Casa Rca Oferton",
@@ -2334,7 +2436,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.7",
             "bestRating": "20"
         },
         "author": {
@@ -2360,10 +2462,12 @@
             "name": "Melitronic"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
-    "name": "Colch\u00f3n Matrimonial America Prestige + Box Gratis",
+    "name": "Colch\u00f3n Matrimonial America Prestige + Base Box Gratis",
     "image": [
         "https://resources.claroshop.com/medios-plazavip/s2/10380/824218/5c4a4ab093e15-dormilon-america-prestige-box-1600x1600.jpg",
         "https://resources.claroshop.com/medios-plazavip/s2/10380/824218/5c4a4ab3122d0-dormilon-america-prestige-1-1600x1600.jpg",
@@ -2382,7 +2486,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -2408,7 +2512,9 @@
             "name": "Colchones Dormil\u00f3n"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Scooter Electrico Patin Plegable 24 V 23 Km/h 250w Negro",
@@ -2432,7 +2538,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "4.0",
             "bestRating": "20"
         },
         "author": {
@@ -2458,7 +2564,9 @@
             "name": "MERCADAZO"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Consola PS4 Slim de 1TB Hits Bundle 5",
@@ -2478,7 +2586,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.4",
+            "ratingValue": "3.5",
             "bestRating": "20"
         },
         "author": {
@@ -2504,7 +2612,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Pantalla Reacondicionada Hisense 50 Smart Tv Roku Hdr Television 4k Full Hd Televisor 50r6e",
@@ -2527,7 +2637,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -2553,10 +2663,12 @@
             "name": "GRUPO DECME"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
-    "name": "Colch\u00f3n Matrimonial Spring Air Revolution + Box Gratis",
+    "name": "Colch\u00f3n Matrimonial Spring Air Revolution + Base Box Gratis",
     "image": [
         "https://resources.claroshop.com/medios-plazavip/mkt/5d28ab9b7071f_claroshop_boxjpg.jpg",
         "https://resources.claroshop.com/medios-plazavip/mkt/5d28ac3beac9d_colchon_claroshop_2jpg.jpg",
@@ -2573,7 +2685,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -2599,7 +2711,9 @@
             "name": "Colchones Dormil\u00f3n"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Videoc&#225;mara GoPro Hero 7 Paquete Especial",
@@ -2618,7 +2732,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.5",
             "bestRating": "20"
         },
         "author": {
@@ -2644,7 +2758,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Colchon Restonic Fly Individual",
@@ -2664,7 +2780,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "4.0",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -2681,7 +2797,7 @@
         "@type": "Offer",
         "url": "https://www.claroshop.com/producto/973189/google-home-mini-ga00216-us/",
         "priceCurrency": "MXN",
-        "price": "4975",
+        "price": "5475",
         "priceValidUntil": "2019-11-18",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock",
@@ -2690,7 +2806,9 @@
             "name": "Colchones Dormil\u00f3n"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "ADIDAS - GRAND COURT BASE - BLANCO/NEGRO - CABALLERO",
@@ -2737,7 +2855,9 @@
             "name": "TITAS SPORT CENTER"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Oferta Limitada Refrigerador Hisense 7p silver con despachador de agua RR63D6WGX",
@@ -2755,7 +2875,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.7",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -2781,7 +2901,9 @@
             "name": "Endomex"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Nupec Adulto 20 Kilos Original",
@@ -2799,7 +2921,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.0",
             "bestRating": "20"
         },
         "author": {
@@ -2825,7 +2947,9 @@
             "name": "My Pet World"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Colch\u00f3n Matrimonial Spring Air Revolution",
@@ -2845,7 +2969,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -2862,7 +2986,7 @@
         "@type": "Offer",
         "url": "https://www.claroshop.com/producto/973189/google-home-mini-ga00216-us/",
         "priceCurrency": "MXN",
-        "price": "8225",
+        "price": "8725",
         "priceValidUntil": "2019-11-18",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock",
@@ -2871,7 +2995,9 @@
             "name": "Colchones Dormil\u00f3n"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Paquete 2 Perfumes Meow + Purr de Katy Perry para Mujer edp 100ML",
@@ -2890,7 +3016,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.2",
+            "ratingValue": "3.4",
             "bestRating": "20"
         },
         "author": {
@@ -2916,7 +3042,9 @@
             "name": "Arome Mexico"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "C&aacute;mara Rebel T6 Canon Ef-S 18-55Mm",
@@ -2935,7 +3063,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -2961,7 +3089,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Memoria Usb 16gb Sandisk Cruzer Force Sdcz71-016g-b35 Metalica",
@@ -2985,7 +3115,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -3011,7 +3141,9 @@
             "name": "GRUPO DECME"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Consola Xbox One S1 TB Forza Horizon 4",
@@ -3029,7 +3161,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.3",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -3055,7 +3187,9 @@
             "name": "Sanborns"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Pantalla Smart Tv LED 49 Pulg 4K Ultra HD 49UK6090PUA LG Reacondicionado",
@@ -3073,7 +3207,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -3099,7 +3233,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Laptop Chromebook 11.6\" Intel Celeron N3050 4GB 16GB Lenovo",
@@ -3117,7 +3253,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.9",
+            "ratingValue": "3.3",
             "bestRating": "20"
         },
         "author": {
@@ -3143,15 +3279,17 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Paquete Pantalla Uhd 55&quot; 55H6F +Pantalla Hd 32&quot; 32H3D1 Hisense",
     "image": [
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2967366.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2967366.jpg",
         "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2967368.jpg",
-        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2967367.jpg"
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2967367.jpg",
+        "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/2967366.jpg"
     ],
     "description": "     Disfruta de tu contenido favorito con est\u00e9 incre\u00edble paquete de Pantallas de Hisense, el cual incluye una Pantalla UHD de 55 pulgadas Modelo 55H6F + Pantalla HD de 32 pulgadas Modelo 32H3D1.     La Pantalla UHD 55\u201d 55H6F es una nueva pantalla que cuenta con tecnolog\u00eda 4K nativo (3840 x 2160), lo que te har\u00e1 disfrutar de im\u00e1genes m\u00e1s coloridas y vivas.     Con el Sistema Operativo Vidaa U de Hisense, la pantalla te ofrecer\u00e1 una mayor calidad de imagen y con su sistema de audio certificado DTS STUDIO SOUND\u2122 disfrutaras del mejor sonido.     Gracias a Motion Rate 120, Las pel\u00edculas de acci\u00f3n y los deportes los ver\u00e1s de forma fluida y sin efecto de barrido, todo esto  para que cada contenido puedas vivirlo intensamente. Cuenta con la tecnolog\u00eda de audio dts\u00ae, disfrutar\u00e1s de un sonido envolvente, misma experiencia que una barra de sonido convencional.     Atr\u00e9vete a disfrutar de la mejor tecnolog\u00eda de Hisense en tu pantalla de 55 pulgadas UHD.     Sum\u00e9rgete y disfruta de tu contenido con est\u00e9 incre\u00edble paquete de Pantallas Hisense, que SEARS tiene para ti.                       Modelo         55H6F               *Tama\u00f1o         55\"               *Tecnolog\u00eda         LED               *Resoluci\u00f3n         UHD               *Smart TV         SI               Curva         NO               Audio         8W X 2               Terminales de entrada         (3) PUERTO HDMI 2.0, (1) PUERTO USB 2.0, 1 CONECTOR ETHERNET, (1) ENTRADA DE VIDEO COMPONENTE RCA               Terminales de salida         OPTICO DIGITAL X 1, (1) SALIDA DE AUDICULARES               Garant\u00eda con Fabricante         2 A\u00d1OS               Alto (cm)         72.6 cm               Frente (cm)         124.2 cm               Fondo (cm)         7.3 cm               Peso (kg)         14.3 kg             Pantalla de 32 pulgadas HD cuenta con tecnolog\u00eda LED y Resoluci\u00f3n en HD.    La serie H3D de Hisense est\u00e1 dise\u00f1ada para visualizar contenido en alta definici\u00f3n, su panel de iluminaci\u00f3n Full Array har\u00e1 que la calidad de imagen sea incre\u00edble ofreciendo un brillo y movimiento perfectos. Cuenta con certificaci\u00f3n de audio DBX TV\u00ae, ideal para disfrutar de pel\u00edculas o videojuegos con un sonido \u00fanico.                        Modelo         32H3D1               *Tama\u00f1o         32\"               *Tecnolog\u00eda         LED               *Resoluci\u00f3n         HD               *Smart TV         NO               Curva         NO               Audio         6 W x 2               Terminales de entrada         (3) PUERTO HDMI 1.4, (1) PUERTO USB 2.0               Terminales de salida         OPTICO DIGITAL X 1, (1) SALIDA DE AUDICULARES               Garant\u00eda con Fabricante         1 A\u00d1O               Alto (cm)         43.4 cm               Frente (cm)         73.4 cm               Fondo (cm)         9.3 cm               Peso (kg)         4.4 kg          ",
     "sku": "1101692",
@@ -3164,7 +3302,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.4",
+            "ratingValue": "3.1",
             "bestRating": "20"
         },
         "author": {
@@ -3181,7 +3319,7 @@
         "@type": "Offer",
         "url": "https://www.claroshop.com/producto/973189/google-home-mini-ga00216-us/",
         "priceCurrency": "MXN",
-        "price": "18570",
+        "price": "14439",
         "priceValidUntil": "2019-11-18",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock",
@@ -3190,7 +3328,9 @@
             "name": "SEARS"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Smart TV Pantalla HDR 50 Pulg 4K HD 50PFL5602/F7 Philips Reacondicionado",
@@ -3208,7 +3348,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -3234,7 +3374,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Smart Tv 55 Pulg 4K 3840X2160 60 Hz Full HD Roku TCL Reacondicionado ",
@@ -3252,7 +3394,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.5",
             "bestRating": "20"
         },
         "author": {
@@ -3278,7 +3420,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Pantalla Smart Tv 4k 50 Pulgadas Hisense 50r6e Led Ultra HD reacondicionado",
@@ -3296,7 +3440,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.5",
+            "ratingValue": "3.9",
             "bestRating": "20"
         },
         "author": {
@@ -3313,7 +3457,7 @@
         "@type": "Offer",
         "url": "https://www.claroshop.com/producto/973189/google-home-mini-ga00216-us/",
         "priceCurrency": "MXN",
-        "price": "9999",
+        "price": "7999",
         "priceValidUntil": "2019-11-18",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock",
@@ -3322,7 +3466,9 @@
             "name": "Ibushak"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Colch\u00f3n Restonic West King Size",
@@ -3342,7 +3488,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.8",
+            "ratingValue": "3.6",
             "bestRating": "20"
         },
         "author": {
@@ -3359,7 +3505,7 @@
         "@type": "Offer",
         "url": "https://www.claroshop.com/producto/973189/google-home-mini-ga00216-us/",
         "priceCurrency": "MXN",
-        "price": "10975",
+        "price": "11475",
         "priceValidUntil": "2019-11-18",
         "itemCondition": "https://schema.org/UsedCondition",
         "availability": "https://schema.org/InStock",
@@ -3368,7 +3514,9 @@
             "name": "Colchones Dormil\u00f3n"
         }
     }
-}{
+}</script>
+<script type="application/ld+json">
+{
     "@context": "https://schema.org/",
     "@type": "Product",
     "name": "Pantalla Samsung 55&quot; Curva UHD 4K Smart TV UN55NU7500FXZ",
@@ -3386,7 +3534,7 @@
         "@type": "Review",
         "reviewRating": {
             "@type": "Rating",
-            "ratingValue": "3.6",
+            "ratingValue": "3.2",
             "bestRating": "20"
         },
         "author": {
@@ -3412,4 +3560,4 @@
             "name": "Sanborns"
         }
     }
-}
+}</script>
